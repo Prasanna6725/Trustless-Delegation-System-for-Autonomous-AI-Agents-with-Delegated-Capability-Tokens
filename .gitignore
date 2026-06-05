@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Hardhat / Solidity build outputs
+artifacts/
+cache/
+coverage/
+typechain/
+
+# Python cache and test outputs
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Environment files and local secrets
+.env
+.env.*
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/

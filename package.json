@@ -1,0 +1,12 @@
+{
+  "name": "trustless-delegation",
+  "version": "0.1.0",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.0"
+  },
+  "scripts": {
+    "test": "npx hardhat test",
+    "compile": "npx hardhat compile"
+  }
+}
